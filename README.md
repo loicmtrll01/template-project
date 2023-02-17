@@ -1,6 +1,4 @@
-# Project
-
-## Group [NAME]
+# Project [NAME]
 
 ## Team
 
