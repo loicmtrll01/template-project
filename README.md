@@ -18,7 +18,7 @@
 
 ### Means of Communication
 [Adapt to your needs]
-- [Teams](https://slack.com) for general and quick discussions
+- [Teams](https://teams.microsoft.com/l/team/19%3ajm4VyNKKk_l-duXbNetcjXE8cco0EGKKDD_oz2Pl5DQ1%40thread.tacv2/conversations?groupId=75ea3a7c-2843-4595-b17b-289de91de09e&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40) for general and quick discussions
 - [GitHub Issues](https://github.com/heg-interschool/project-[groupename]/issues) for project-related discussions and bug tracking
 
 ## Mockups
